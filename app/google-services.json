@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "649714574087",
+    "firebase_url": "https://wake-up-guy-v5.firebaseio.com",
+    "project_id": "wake-up-guy-v5",
+    "storage_bucket": "wake-up-guy-v5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649714574087:android:4fac419377c2a2e8",
+        "android_client_info": {
+          "package_name": "com.work.wakeupguyv5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649714574087-3uo1hnmvbi8kc1le2a5cr5jmnds00bhe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.work.wakeupguyv5",
+            "certificate_hash": "5694e86b815238adf4d7b3739503af6ae5b9ce98"
+          }
+        },
+        {
+          "client_id": "649714574087-roga22ugbd1r0nc6vuvq4ddp450dumje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFP8VuYoxXYkNfoWa_4_R0C0S72jFixSU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649714574087-roga22ugbd1r0nc6vuvq4ddp450dumje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

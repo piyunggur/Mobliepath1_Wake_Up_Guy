@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3cec29</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#00ffffff</color>
+    <color name="maipath1">#ff0000</color>
+    <color name="maipath2">#ff6600</color>
+    <color name="maipath3">#ffff00</color>
+    <color name="maipath4">#009900</color>
+    <color name="maipath5">#0099ff</color>
+    <color name="maipath6">#333399</color>
+    <color name="maipath7">#660066</color>
+</resources>
